@@ -1,0 +1,15 @@
+PHOTOS (recommande) - JPG, carre 800x800 pour les produits, 1600x900 pour hero.jpg
+Si une photo est absente, le visuel illustre s'affiche automatiquement.
+Sources gratuites : unsplash.com, pexels.com (usage commercial, attribution non obligatoire)
+
+hero.jpg -> "autumn thanksgiving table setting warm light"
+p1.jpg  nappe en lin      -> "linen tablecloth autumn table"
+p2.jpg  assiettes en gres -> "handmade stoneware plates rustic"
+p3.jpg  chemin de table   -> "jute table runner rustic"
+p4.jpg  cocotte en fonte  -> "cast iron dutch oven orange"
+p5.jpg  plat a tarte      -> "pie dish ceramic baked pie"
+p6.jpg  set a decouper    -> "carving knife set wooden handle"
+p7.jpg  couronne          -> "dried leaves autumn wreath door"
+p8.jpg  bougies           -> "spiced candles cinnamon orange"
+p9.jpg  coffret gourmand  -> "gourmet gift box jam honey wooden crate"
+p10.jpg coffret hote      -> "hostess gift box candle towel"
